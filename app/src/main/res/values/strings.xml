@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">呷好米</string>
+    <string name="image">image</string>
+    <string name="classroom">米食小教室</string>
+    <string name="history">歷史記錄</string>
+    <string name="setting">提示設定</string>
+    <string name="privacy">使用條款</string>
+    <string name="disclaimer">免責聲明</string>
+    <string name="copyright">版權宣告</string>
+    <string name="btnHistory">歷史記錄</string>
+    <string name="btnScan">掃描輸入</string>
+    <string name="btnKey">手動輸入</string>
+    <string name="tvMain">將鏡頭對準條碼進行掃描</string>
+    <string name="tvHistory1">近期掃描歷史紀錄</string>
+    <string name="tvHistory2">請點選條碼查看檢驗結果</string>
+    <string name="tvHistory3">（歷史記錄保留30筆，超過將自動刪除）</string>
+    <string name="tvSetting">提示設定</string>
+    <string name="showId">查詢結果</string>
+    <string name="switch1">震動提示</string>
+    <string name="switch2">聲音提示</string>
+    <string name="backScan">返回掃描輸入</string>
+    <string name="backHistory">返回歷史記錄</string>
+    <string name="phase">檢驗月份</string>
+    <string name="barcode">國際條碼</string>
+    <string name="product">產品名稱</string>
+    <string name="company">廠商名稱</string>
+    <string name="result">檢驗結果</string>
+    <string name="textview">(資料來源：行政院農委會)</string>
+    <string name="textview1">1234567890</string>
+    <string name="textview2">台灣米最好吃</string>
+    <string name="textview3">行政院農委會</string>
+
+    <string name="tvKey">請輸入條碼數字，查看檢驗結果</string>
+    <string name="btnOk">確認</string>
+    <string name="hint">在此輸入</string>
+    <string name="btnClear">清除</string>
+    <string name="btnShow">顯示詳細結果</string>
+    <string name="showVideos">米食小教室</string>
+    <string name="tvVideo">影片名稱</string>
+    <string name="back">返回上一頁</string>
+
+
+</resources>
